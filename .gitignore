@@ -1,0 +1,4 @@
+config.txt
+*.csv
+mooons/*.csv
+Ignore these files
